@@ -19,7 +19,7 @@ class DataEngineer:
     def __init__(self):
         self.name = "Zikri Azri"
         self.role = "Analytics Engineer"
-        self.location = "Sepang, Selangor, Malaysia"
+        self.location = "Selangor, Malaysia"
         self.education = "Mechanical Engineering Graduate @ UTP"
         
     def current_focus(self):

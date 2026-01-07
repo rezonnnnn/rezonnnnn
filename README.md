@@ -118,15 +118,7 @@ Developed production-grade gradient boosting regression model predicting residen
 - 📊 Neighborhood clustering supports **5.8% portfolio return optimization** for institutional investors
 
 **Tech Stack:** `Python` `Scikit-Learn` `Gradient Boosting` `Feature Engineering` `Cross-Validation` `Pandas` `NumPy`
-
-## 📈 GitHub Stats
-
-<div align="center">
-  
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&hide_border=true)
-  
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical&hide_border=true)
-  
+ 
 </div>
 
 ## 🎓 Currently Learning
@@ -169,15 +161,13 @@ Developed production-grade gradient boosting regression model predicting residen
 I'm always interested in connecting with fellow data professionals, discussing analytics challenges, or exploring collaboration opportunities.
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/zikriazri/)
-- 📧 Email: your.email@example.com
-- 📍 Location: Sepang, Selangor, Malaysia
+- 📧 Email: zikri.zahairi@gmail.com
+- 📍 Location: Selangor, Malaysia
 
 ---
 
 <div align="center">
   
   **"Driving data-driven decisions through scalable technical solutions"**
-  
-  ![Profile Views](https://komarev.com/ghpvc/?username=yourusername&color=blue&style=flat-square)
-  
+
 </div>

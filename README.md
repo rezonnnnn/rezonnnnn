@@ -1,1 +1,1 @@
-I turn data and AI into solutions for real problems.
+Engineer at heart. I use data and AI to solve problems that matter.
